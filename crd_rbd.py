@@ -144,4 +144,3 @@ class CrdRbd:
         print("\n")
         print('--- ANOVA TABLE ---')
         self.anova([SSt, SSb], SSe, SST, [t_D_F, b_D_F, E_D_F, T_D_F])
-
