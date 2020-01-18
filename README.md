@@ -15,7 +15,7 @@ check the  test.py file
 
 you can use data as given in the examples in the file
 
-## please choose only one of the methods to use in the example I gave
+####please choose only one of the methods to use in the example I gave
 
 please comment line 20 in the test file if you wish to test the program
 
