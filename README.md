@@ -18,3 +18,5 @@ you can use data as given in the examples in the file
 
 please comment line 20 in the test file if you wish to test the program
 
+to run the test program write 
+`python test.py`
