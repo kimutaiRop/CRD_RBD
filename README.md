@@ -1,6 +1,6 @@
 # CRD_RBD
 
-A CRD and RPD program made in pythpn
+A CRD and RBD program made in pythpn
 
 please install python before using this program you can check installation for your os
 http://python.org/downloads/
